@@ -1,0 +1,32 @@
+<?TUXML version="1.0" encoding="UTF-8"?>
+<Cam_MIchrome5BW Using="DftParameter">
+    <ParameterSets Name="DftParameter">
+        <Resolution>0</Resolution>
+        <PixelClock>0</PixelClock>
+        <BitOfDepth>8</BitOfDepth>
+        <GlobalGain>0</GlobalGain>
+        <Brightness>200</Brightness>
+        <ATExposure>1</ATExposure>
+        <FMExposure>0</FMExposure>
+        <LNExposure>830</LNExposure>
+        <FlatFieldCorrection>0</FlatFieldCorrection>
+        <Sharpness>4</Sharpness>
+        <Trigger>0</Trigger>
+        <DefectCorrectionValue>0</DefectCorrectionValue>
+        <MultipleCameras>1</MultipleCameras>
+        <FrequencyPermission>0</FrequencyPermission>
+        <FrequencyValue>50</FrequencyValue>
+        <NegativeFilm>0</NegativeFilm>
+        <Gamma>128</Gamma>
+        <Contrast>32</Contrast>
+        <LeftLevels>0</LeftLevels>
+        <RightLevels>255</RightLevels>
+        <HistogramStatistic>0</HistogramStatistic>
+        <AutoLevels>0</AutoLevels>
+        <Horizontal>0</Horizontal>
+        <Vertical>0</Vertical>
+        <VerticalCorrection>1</VerticalCorrection>
+        <RotateR90>0</RotateR90>
+        <RotateL90>0</RotateL90>
+    </ParameterSets>
+</Cam_MIchrome5BW>
